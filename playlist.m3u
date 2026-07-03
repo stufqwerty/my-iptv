@@ -723,13 +723,13 @@ https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="Business",Fox Business Network (720p) [Not 24/7]
 https://tvpass.org/live/FoxBusiness/hd
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (480p)
+#EXTINF:-1 tvg-id="foxnews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (480p)
 https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb224/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjI0OjE3ODI2MzA1MDMwMzQ6Y2RubGl2ZXR2LnR2Ojc3NDA4NDUxMjJlZTUzZmIuZDlmZTIwZmNmY2YzYzQzNGQwZTliYjg1Mzk5NmZiNzc3ZGQxOTMwMjQ2MjRjMmFjZjllZTliNWU0M2JmYjE5YQ
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (1280p)
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (1280p)
 https://cdn.haititivi.net/Fox_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
