@@ -703,7 +703,7 @@ https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FloRacing.us" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png" group-title="Sports",FloRacing 24/7 (1080p)
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg" group-title="Cooking",Food Network (1080p)
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg" group-title="Cooking",Food Network (1080p)
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8?takodachi
 #EXTINF:-1 tvg-id="KFONTV.us" tvg-logo="https://i.imgur.com/MQHYm3V.png" group-title="General",Fontana Community Television (720p) [Geo-blocked]
 https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
