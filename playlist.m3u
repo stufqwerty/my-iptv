@@ -390,7 +390,7 @@ https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGci
 #EXTINF:-1 tvg-id="CBNNews.us" tvg-logo="https://i.imgur.com/9f9YMsA.png" group-title="Religious",CBN News Channel (1080p)
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="",CBS (1080p)
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb375/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODI2MzA3OTkzNzQ6Y2RubGl2ZXR2LnR2OjgwZTNjODMxNTA2MDhmN2IuODQxNDk2NzgyY2I1ZjIzYTdlMTdjZTdlZmQ3ZDNkODViNzc3ZDFhNTMwMDA4M2UyOWFmZDlkYzE4ZWRlOWRiMw
+http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1 tvg-id="WKRCTV121.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="",CBS 12 Cincinnati OH (WKRC) (1080p)
 https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WPEC121.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="",CBS 12 West Palm Beach FL (WPEC) (1080p)
