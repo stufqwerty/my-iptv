@@ -436,7 +436,7 @@ https://pemirateshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/CNN_Logo_%282014%29.svg" group-title="News",CNN (1080p)
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb490/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkwOjE3ODI2MzAyMDM1Njg6Y2RubGl2ZXR2LnR2OmM4NjBiNDJkZWJmYjM3ODQuYjI1OWM3YWUwYTdkZmVjMGRiMTdjYzg4OTI1OTgzOTU2NjJmNTRlNjdjYTk3ZTc0YjgxZWYyMWIyYzkyYTQyNw
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CCTV.us" tvg-logo="" group-title="",Charlotte County CC-TV (Charlotte County FA) (720p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://i.imgur.com/tuP9GW8.png" group-title="News",Cheddar News (1080p)
