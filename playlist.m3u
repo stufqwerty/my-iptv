@@ -389,7 +389,7 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CBNNews.us" tvg-logo="https://i.imgur.com/9f9YMsA.png" group-title="Religious",CBN News Channel (1080p)
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="CBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="",CBS (1080p)
+#EXTINF:-1 tvg-id="CBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CBS_logo_%282020%29.svg" group-title="",CBS (1080p)
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1 tvg-id="WKRCTV121.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="",CBS 12 Cincinnati OH (WKRC) (1080p)
 https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
@@ -737,7 +737,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather (720p)
 http://206.212.244.63/68/index.m3u8
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="Family",Freeform (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Freeform_2018.svg" group-title="Family",Freeform
 http://206.212.244.63/69/index.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports",FTF Sports (720p)
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
@@ -1185,7 +1185,7 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NatickPublicAccessChannel.us" tvg-logo="https://i.imgur.com/G4a3gW0.png" group-title="General",Natick Public Access Channel (720p)
 https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.usEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD East (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NationalGeographic.usEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic
 http://206.212.244.63/122/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.usEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild HD East (720p) [Not 24/7]
 https://tvpass.org/live/NationalGeographicWildEast/hd
@@ -1351,7 +1351,7 @@ https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-Antiq
 https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WKMJTV681.us" tvg-logo="https://i.imgur.com/U9HFzJk.png" group-title="Education",PBS KET Louisville KY (WKMJ-TV) (720p)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Education;Kids",PBS Kids (720p)
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/PBS_Kids_Dash_%281999%29.svg/revision/latest?cb=20170814134849" group-title="Education;Kids",PBS Kids (720p)
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Alaska (1080p)
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
