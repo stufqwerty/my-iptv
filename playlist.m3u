@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/k3frq9x961b3p9rlm73qr/m3u4u-207197-732945-EPG-Live-TV.xml?rlkey=8luectgvkjoyqbjwasbdcsmqv&st=62jc6tt8&raw=1" tvg-shift="+2"
+#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/k3frq9x961b3p9rlm73qr/m3u4u-207197-732945-EPG-Live-TV.xml?rlkey=8luectgvkjoyqbjwasbdcsmqv&st=iozvtish&raw=1"
 #EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-logo="https://i.imgur.com/oNUpXA9.png" group-title="Religious",3ABN Dare To Dream Network
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religious",3ABN English
