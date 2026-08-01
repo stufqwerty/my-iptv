@@ -724,17 +724,17 @@ https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",FOX (720p)
 http://206.212.244.63/64/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="Business",Fox Business Network (720p) [Not 24/7]
-https://tvpass.org/live/FoxBusiness/hd
+http://185.243.7.192:80/play/live.php?mac=00:1A:79:E9:44:54&stream=45575&extension=ts&play_token=SrWqBE3Z3b
 #EXTINF:-1 tvg-id="foxnews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (480p)
 http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+http://185.243.7.192:80/play/live.php?mac=00:1A:79:E9:44:54&stream=730907&extension=ts&play_token=S2VKOtWbMa
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1 (1280p)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p) [Not 24/7]
-https://tvpass.org/live/FoxSports2/hd
+http://185.243.7.192:80/play/live.php?mac=00:1A:79:E9:44:54&stream=1931077&extension=ts&play_token=aV91MFwcGN
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather (720p)
 http://206.212.244.63/68/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Freeform_2018.svg" group-title="Family",Freeform
@@ -1204,7 +1204,7 @@ https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playl
 #EXTINF:-1 tvg-id="WXIITV201.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",NBC 12 Winston-Salem NC (WXII) (720p)
 https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="General",NBC (1080p)
-http://stream.cammonitorplus.net/1812/index.m3u8
+http://185.243.7.192:80/play/live.php?mac=00:1A:79:E9:44:54&stream=1930992&extension=ts&play_token=6uX8RhxApt
 #EXTINF:-1 tvg-id="NBCComedyVault.us" tvg-logo="https://i.imgur.com/nydZWwg.png" group-title="Comedy",NBC Comedy Vault (1080p)
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW (1080p)
@@ -1280,7 +1280,7 @@ https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo="https://i.imgur.com/N7rQyzN.png" group-title="Kids",Nickelodeon Pluto TV (720p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="Kids",Nick Jr (576p)
-http://206.212.244.63/3150/index.m3u8
+http://185.243.7.192:80/play/live.php?mac=00:1A:79:E9:44:54&stream=45522&extension=ts&play_token=rmXe2LnoYx
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Kids",Ninja Kidz (720p)
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="NMBTV.us" tvg-logo="https://i.imgur.com/HTNoNnh.png" group-title="Legislative",North Miami Beach TV (NMBTV) (North Miami Beach FL) (720p)
